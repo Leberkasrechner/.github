@@ -8,4 +8,6 @@ It helps peopler find their nearest butchers to get livercheese if they run out 
 
 [Raphiart](https://github.com/Raphiart) (Head of marketing)
 
+[CoderKon42](https://github.com/CoderKon42) (Core Developer)
+
 [Phipsiart](https://github.com/Phipsiart) (Core Developer)
