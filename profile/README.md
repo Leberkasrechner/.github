@@ -16,3 +16,5 @@ If you believe in our mission and want to join our team, don't hesitate to conta
 [CoderKon42](https://github.com/CoderKon42) (Core Developer)
 
 [Phipsiart](https://github.com/Phipsiart) (Core Developer)
+
+[Vincentf123](https://github.com/Vincentf123) (Core Developer)
