@@ -1,20 +1,10 @@
-# About
-Leberkasrechner is a group of friends that are building amazing software, the Leberkasrechner. This is our most advanced project ever built.
-It helps peopler find their nearest butchers to get livercheese if they run out of.
+# Leberkasrechner
 
-# our Mission
-We believe that everyone should have the ability to calculate their livercheese needs. We hope that with our great software we are one step closer to that.
+Welcome to Leberkasrechner! We're a community passionate about connecting people with local butchers and exploring a world full of gourmet food. While our platform is designed for finding butchers, we also cater to the needs of vegan, vegetarian, and other dietary groups.
 
-# Join us
-If you believe in our mission and want to join our team, don't hesitate to contact us. We would be happy to have you in our team.
+Our mission is to enhance the quality and accessibility of OpenStreetMap data, particularly for local butchers. We believe in the power of Open Data and aim to make it easier for users to improve this data for everyone's benefit.
 
-## Team
-[da.ssl](https://github.com/da-ssl) (Core Developer)
+We're always looking for passionate individuals to join our community. If you believe in our mission, don't hesitate to get in touch. Whether you're a developer, a data enthusiast, or a gourmet food lover, there's a place for you at Leberkasrechner.
 
-[Raphiart](https://github.com/Raphiart) (Head of marketing)
-
-[CoderKon42](https://github.com/CoderKon42) (Core Developer)
-
-[Phipsiart](https://github.com/Phipsiart) (Core Developer)
-
-[Vincentf123](https://github.com/Vincentf123) (Core Developer)
+## Contribute
+Leberkasrechner is an open-source project. We welcome contributions from the community. A simple but impactful way you can help is by adding opening hours for your local butcher. Check out our 'Contribute' section to see how you can get involved. Your local knowledge could make a big difference!
