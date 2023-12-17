@@ -1,4 +1,4 @@
-# Leberkasrechner
+# About us
 
 Welcome to Leberkasrechner! We're a community passionate about connecting people with local butchers and exploring a world full of gourmet food. While our platform is designed for finding butchers, we also cater to the needs of vegan, vegetarian, and other dietary groups.
 
